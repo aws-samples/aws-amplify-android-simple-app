@@ -115,7 +115,7 @@ public class APIInfo {
     }
 
     /**
-     *
+     * Retrieves a list of Subjects. This is going to be called in the main fragment.
      */
     public void getSubjectList(Context appContext, SubjectListRunInterface subjectListRunInterface) {
         RequestQueue queue = Volley.newRequestQueue(appContext);
