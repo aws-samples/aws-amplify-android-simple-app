@@ -1,7 +1,7 @@
 
 
 # AWS - Android APP
-El siguiente codigo pertenece al blog post LINK en español y es ejemplo para la implementación de un código  escrito en Java y usando distintos servicios de AWS como:
+El siguiente codigo pertenece al [blog post](https://aws.amazon.com/es/blogs/aws-spanish/creando-aplicaciones-nativas-en-android-con-aws/) en español y es ejemplo para la implementación de un código  escrito en Java y usando distintos servicios de AWS como:
 
  1. [AWS Amplify](https://aws.amazon.com/es/amplify/)
  2. [Amazon Cognito](https://aws.amazon.com/es/cognito/)
