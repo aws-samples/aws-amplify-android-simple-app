@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Example APP</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_validate_code">Validate Code</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_change_userdata">Change Data</string>
+    <string name="button_register">Register</string>
+    <string name="button_validate">Validate</string>
+    <string name="error_password">Password must contain at least 8 characters.</string>
+    <string name="search_title">Search</string>
+    <string name="card_title">Title</string>
+    <string name="card_description">Secondary text</string>
+    <string name="subject_title">Subject Title</string>
+
+    <!--Buttons-->
+    <string name="ic_dashboard">Dashboard</string>
+    <string name="ic_qr_code">Scan</string>
+    <string name="ic_profile">Profile</string>
+    <string name="ic_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

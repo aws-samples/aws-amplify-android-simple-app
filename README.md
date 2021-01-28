@@ -9,7 +9,7 @@ El siguiente codigo pertenece al blog post LINK en español y es ejemplo para la
  4. [AWS Lambda](https://aws.amazon.com/es/lambda/)
  5. [DynamoDB](https://aws.amazon.com/es/dynamodb/)
 
-![architecture](https://github.com/LCCCentralSA/blogpost-android-app/blob/main/screencaptures/architecture.png?raw=true)
+![architecture](https://github.com/aws-samples/aws-amplify-android-simple-app/blob/main/screencaptures/architecture.png?raw=true)
 
 
 ## Documentación

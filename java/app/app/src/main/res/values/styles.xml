@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Theme.ExampleApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="Widget.ExampleApp.TextViewUserName" parent="Widget.AppCompat.TextView">
+    </style>
+
+    <style name="Widget.ExampleApp.Toolbar" parent="Widget.AppCompat.Toolbar">
+    </style>
+
+    <style name="Widget.ExampleApp.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+    </style>
+
+    <style name="TextAppearance.ExampleApp.TextInputLayout.HintText" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="Widget.ExampleApp.Button" parent="Widget.MaterialComponents.Button">
+    </style>
+
+    <style name="Widget.ExampleApp.Button.TextButton" parent="Widget.MaterialComponents.Button.TextButton">
+    </style>
+
+</resources>
